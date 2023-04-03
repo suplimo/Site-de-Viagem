@@ -5,15 +5,15 @@
     <link rel="stylesheet" href="css.css">
 </head>
 <body>
-<form action="" method="post">
+<form action="" method="get">
 <?php 
-    $nome = $_POST['nome'];
-    $idade = $_POST['idade'];
-    $genero = $_POST['genero'];
-    $email = $_POST['email'];
-    $telefone = $_POST['telefone'];
-    $cpf = $_POST['cpf'];
-    $senha = $_POST['senha'];
+    $nome = $_GET['nome'];
+    $idade = $_GET['idade'];
+    $genero = $_GET['genero'];
+    $email = $_GET['email'];
+    $telefone = $_GET['telefone'];
+    $cpf = $_GET['cpf'];
+    $senha = $_GET['senha'];
     ?>
      
 
