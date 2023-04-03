@@ -1,5 +1,6 @@
 body{
-    background-image: linear-gradient(#7e54fa, #00b7ff, #00e1ff);
+    background-image: linear-gradient(#7e54fa, #00b7ff, #00e1ff); 
+    margin-bottom: 17%;
 }
 
 form{
@@ -50,5 +51,6 @@ th{
 }
 
 .body{
-    background-image: url(img/fotoindex.jpg);
+    background-image: url(img/fotona.png);
+    background-size: 100%;
 }
